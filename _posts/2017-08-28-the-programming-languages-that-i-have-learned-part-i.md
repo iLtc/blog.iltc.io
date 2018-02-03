@@ -8,7 +8,7 @@ This article is a list of programming languages that I have learned. Please noti
 
 ## Quick Basic 
 
-![](/assets/201708/QuickBasic_Opening_Screen.png){: .center-image }
+![QuickBasic Opening Screen](/assets/201708/QuickBasic_Opening_Screen.png){: .center-image }
 
 Quick Basic or QB is the first programming language that I learned.
 
