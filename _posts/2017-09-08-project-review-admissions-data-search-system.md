@@ -2,7 +2,7 @@
 title: 'Project Review: Admissions Data Search System'
 layout: post
 date: 2017-09-08 02:53:00 -0600
-categories: projects
+categories: Projects
 ---
 
 ## What This Project Is And Why I Did It

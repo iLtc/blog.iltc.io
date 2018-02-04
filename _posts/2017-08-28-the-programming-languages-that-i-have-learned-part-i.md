@@ -2,7 +2,7 @@
 title: The Programming Languages that I have learned (Part I)
 layout: post
 date: 2017-08-28 07:00:00 -0600
-categories: languages
+categories: Languages
 ---
 
 This article is a list of programming languages that I have learned. Please notice that I have *learned* them, which means I have not *mastered* them.
