@@ -1,5 +1,8 @@
 ---
 title: Sell Your Privacy
+layout: post
+date: 2017-10-6 07:24:00 -0600
+categories: Rhetoric
 ---
 
 This is an essay that I wrote for my Rhetoric course.
