@@ -1,15 +1,24 @@
 ---
 ---
 
+.category-head {
+    font-weight: bold;
+}
+
 .center-image {
     margin: 0 auto;
     display: block;
 }
 
-.category-head {
-    font-weight: bold;
+.float-right {
+    float: right;
+    margin: 0 0 20px 20px;
 }
 
 .post-categories {
     float: right;
+}
+
+.post-content p {
+    text-align: justify;
 }
