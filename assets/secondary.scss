@@ -10,9 +10,14 @@
     display: block;
 }
 
+.float-left {
+    float: left;
+    margin: 20px 20px 20px 0;
+}
+
 .float-right {
     float: right;
-    margin: 0 0 20px 20px;
+    margin: 20px 0 20px 20px;
 }
 
 .post-categories {
