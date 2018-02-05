@@ -30,7 +30,7 @@ plugins:
 
 google_analytics: UA-108881767-2
 
-permalink: /:year/:month/:day/:title.html
+permalink: /:title.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
