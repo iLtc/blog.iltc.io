@@ -15,6 +15,8 @@ If you are satisfied with the Ruby version, you can type `gem install rails --no
 
 However, if you are not satisfied with the Ruby version or if you have multiple apps that run on different Ruby version, I would recommend you use RVM to manage Ruby.
 
+<!--more-->
+
 ## Install Homebrew
 
 [Homwbrew](https://brew.sh/) is a package manager for macOS. It can install the stuff you need that Apple does not have. Type the following code at a Terminal prompt to install Homebrew.

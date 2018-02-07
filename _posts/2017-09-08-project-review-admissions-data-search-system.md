@@ -13,6 +13,8 @@ This is my first complete project. Its purpose is providing admissions data to p
 
 I did this project as a competency test when I joined Hongmantang Studio. At the time some third-party websites provided admissions data to help potential new students decide whether they should apply to a university. Those sites tried to collect admissions data from as many schools as possible. Thus, they did not have enough details for each college. Our studio wanted to create a system that could show enough details about the admissions data for our university. 
 
+<!--more-->
+
 We decided to use PHP as the programming language and MySQL as the database because that’s the only production environment our studio had at that time. This limited our choices, so we switched to the Linux and Docker environment later. That gave us more options.
 
 ![A Search Result](/assets/201709/WelcomeResult.png)

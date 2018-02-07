@@ -11,6 +11,8 @@ This is an essay that I wrote for my Rhetoric course.
 
 Silicon Valley is a region in California where many technology companies gather together. When we think about Silicon Valley, we often think about genius people sitting together and programming in mysterious ways. Silicon Valley is also an American comedy series produced by Mike Judge. The TV series is a story about how five young men develop an algorithm that can compress Gigabyte amounts of data into Megabytes. The men then go on to found a startup company in Silicon Valley, and the series focuses on how they maintain and run the business.
 
+<!--more-->
+
 Since the title of the TV show is Silicon Valley, it attracts many audiences who have a technology background or students who want to work in Silicon Valley in the future. Potential viewers might think that Silicon Valley is a show that can expose the lives of tech people to us, and this might get us excited about it. However, most parts of the TV series focus on how the characters conduct their business and how they overcome challenges.
 
 ![Richard Hendricks](/assets/201712/SiliconValleyRichard.jpg){: .float-right style="width: 45%"}

@@ -13,6 +13,8 @@ This article is a list of programming languages that I have learned. Please noti
 
 Quick Basic or QB is the first programming language that I learned.
 
+<!--more-->
+
 I still remember the day when the teacher announced that our school would begin a “Programming Training Course.” Only 4 or 5 out of 60 students in this classroom could join this class. Then she started to read the names, and I was one of them. The reason was that our math teacher believed my math was good enough to take the class. And I remember, my friend was jealous of me.
 
 QB is the first programming language that I learned, even before I began to learn English. That was the first time I knew some English words such as `if`, `else`, and `print`. At that point, `print` was too difficult for us to remember. Fortunately, there was a small function: if you type `?` and press `enter`, it will convert it to `print`.

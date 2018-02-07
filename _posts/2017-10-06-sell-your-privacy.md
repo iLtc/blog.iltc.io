@@ -9,6 +9,8 @@ This is an essay that I wrote for my Rhetoric course.
 
 When you are using free online services, such as Google, Facebook, and Amazon, do you believe it is okay for them to collect your data so that they can “provide information related to you” to you? You might think that it is fine because you like to see news and items that are relevant to you. Well, what if the free services are selling your data to earn money? You might have some concern about this, but in the end, you remember that the services are free, so they have to have some ways to earn money. So you agree again. Now, please think about this: is it okay for your broadband providers to sell your data for money? I don’t know how you feel, but I feel angry. Because I already paid them for the internet services, I do not want them to earn money again from my personal data.
 
+<!--more-->
+
 ![Private Internet Access Advertisement](/assets/201710/PIA-AD.png){: .float-right style="width: 50%"}
 
 On March 26th, 2017, a virtual private network (VPN) company took out a full-page advertisement in The New York Times to draw people’s attention to a new rule [H. J. Res. 86](https://www.congress.gov/bill/115th-congress/house-joint-resolution/86). The new rule would dismantle a previous bill called “[Protecting the Privacy of Customers of Broadband and Other Telecommunications Services](https://www.federalregister.gov/documents/2016/12/02/2016-28006/protecting-the-privacy-of-customers-of-broadband-and-other-telecommunications-services).” This means that after the new policy is implemented, broadband providers can sell user’s data about their online activities to third-party companies who are willing to pay, without permission from users.
