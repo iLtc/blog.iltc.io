@@ -5,8 +5,6 @@ date: 2018-01-22 21:59:00 -0600
 categories: Languages Tutorials
 ---
 
-# How to Install Ruby (on Rails) on Mac
-
 macOS already included Ruby. You can type `ruby -v` at a Terminal prompt to check Ruby version and see result like:
 
 ```
