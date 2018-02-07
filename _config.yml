@@ -32,6 +32,8 @@ google_analytics: UA-108881767-2
 
 permalink: /:title.html
 
+excerpt_separator: <!--more-->
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
