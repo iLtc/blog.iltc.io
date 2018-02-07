@@ -20,5 +20,14 @@ layout: default
   <h1>404</h1>
 
   <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <p>The requested page could not be found, which means we found a broken page.</p>
 </div>
+
+<script>
+    window.onload = function () {
+        gtag('event', '404', {
+            'event_category': 'error',
+            'event_label': window.location.href
+        });
+    }
+</script>
