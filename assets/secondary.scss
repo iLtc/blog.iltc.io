@@ -24,10 +24,18 @@
     float: right;
 }
 
-.post-content p {
-    text-align: justify;
+.post-content {
+    p {
+        text-align: justify;
+    }
 }
 
-.post-list > li {
-    margin-bottom: 70px;
+.post-list {
+    li {
+        margin-bottom: 70px;
+    }
+
+    p {
+        text-align: justify;
+    }
 }
