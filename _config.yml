@@ -18,7 +18,7 @@ email: i@iltc.io
 description: >- # this means to ignore newlines until "baseurl:"
   iLtc and his Blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.iltc.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: iLtc
 linkedin_username: tianchengluo
 
