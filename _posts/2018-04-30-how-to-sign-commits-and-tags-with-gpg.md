@@ -2,7 +2,7 @@
 title: How to Sign Commits and Tags with GPG
 layout: post
 date: 2018-04-30 00:34:00 -0600
-categories: Git GPG
+categories: Git GPG Tutorials
 ---
 
 ## Why Should You Use GPG?
