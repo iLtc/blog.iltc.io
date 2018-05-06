@@ -13,7 +13,7 @@ This may be difficult to understand. Take GitHub as an example, to push commits,
 
 It is not true. GitHub uses SSH Keys to identify you and let you push your commits. But Git itself does not use SSH Keys to identify you. Instead, it uses the name and email you set in Git to identity you. An example below is that my friend (Ricardo) registered his SSH Key but did not give his information to Git. As a result, he can push commits to our GitHub project. But the contributor is the name of his computer, and GitHub cannot find an account that matches the email address.
 
-![](../assets/201804/GPG-Example.png)
+![An Example](../assets/201804/GPG-Example.png)
 
 <!--more-->
 
