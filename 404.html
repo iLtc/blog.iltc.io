@@ -25,9 +25,11 @@ layout: default
 
 <script>
     window.onload = function () {
-        ga('event', '404', {
-            'event_category': 'error',
-            'event_label': window.location.href
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Error',
+            eventAction: '404',
+            eventLabel: window.location.href
         });
     }
 </script>
