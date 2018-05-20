@@ -1,3 +1,10 @@
+---
+title: Install Haskell and Emacs on macOS
+layout: post
+date: 2018-05-19 22:30:00 -0600
+categories: Emacs Haskell MacOS
+---
+
 [Haskell](https://www.haskell.org/) is a purely functional programming language. I learned how to use it in my Programming Language Concepts class. Our professor asked us to use [Emacs](https://www.gnu.org/software/emacs/) to edit all the Haskell and [Agda](https://en.wikipedia.org/wiki/Agda_(programming_language)) code since there are plugins such as [Haskell Mode](https://github.com/haskell/haskell-mode) that can let Emacs highlight Haskell code and compile them when needed.
 
 In this blog post, I will talk about how to install Haskell and Emacs on Mac. There are some tricky things we need to notice in order to be able to use Haskell Mode on Mac. If you are using Windows, you can download the single installer for everything provided by my professor [Aaron Stump](http://homepage.cs.uiowa.edu/~astump/) from [here](http://homepage.cs.uiowa.edu/~astump/agda/Agda2.5.2.msi).
