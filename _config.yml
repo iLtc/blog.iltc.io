@@ -6,6 +6,8 @@ baseurl: /
 url: https://blog.iltc.io
 permalink: pretty
 
+highlighter: rouge
+
 plugins:
   - jekyll-feed
   - jekyll-gist
