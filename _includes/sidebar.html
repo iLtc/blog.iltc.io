@@ -30,6 +30,12 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+
+      {% if page.lang == 'en' %}
+        <a class="sidebar-nav-item" href="/zh/">中文</a>
+      {% elsif page.lang == 'zh' %}
+        <a class="sidebar-nav-item" href="/en/">English</a>
+      {% endif %}
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
