@@ -2,7 +2,12 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        <a href="/{{ page.lang }}/">
+        {% if page.lang %}
+          {% capture lang_url %}/{{ page.lang }}/{% endcapture %}
+        {% else %}
+          {% assign lang_url = "/" %}
+        {% endif %}
+        <a href="{{ lang_url }}">
           {{ site.title }}
         </a>
       </h1>
@@ -10,7 +15,7 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/en/' %} active{% endif %}" href="/{{ page.lang }}/">Home</a>
+      <a class="sidebar-nav-item{% if page.url == '/en/' %} active{% endif %}" href="{{ lang_url }}">Home</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
