@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Categories
+permalink: /en/categories.html
+lang: en
 ---
 
 <div id="archives">
