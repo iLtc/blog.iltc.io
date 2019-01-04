@@ -2,27 +2,23 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
-        {% if page.lang %}
-          {% capture lang_url %}/{{ page.lang }}/{% endcapture %}
-        {% else %}
-          {% assign lang_url = "/" %}
-        {% endif %}
-        <a href="{{ lang_url }}">
+        <a href="/{{ page.lang }}/">
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
+      <p class="lead">{{ site.data.translations['siteDescription'][page.lang] }}</p>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/en/' %} active{% endif %}" href="{{ lang_url }}">Home</a>
+      <a class="sidebar-nav-item" href="https://iltc.io">{{ site.data.translations['home'][page.lang] }}</a>
+      <a class="sidebar-nav-item{% if page.url == '/en/' or page.url =='/zh/' %} active{% endif %}" href="/{{ page.lang }}/">{{ site.data.translations['blog'][page.lang] }}</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | where:"lang", page.lang %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
@@ -38,6 +34,6 @@
       {% endif %}
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }}. {{ site.data.translations['rights'][page.lang] }}</p>
   </div>
 </div>
