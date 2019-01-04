@@ -1,2 +1,20 @@
-<script>window.location.href = "/en/";</script>
-<noscript>Click <a href="/en/">here</a> to visit my blog.</noscript>
+<html lang="en-us">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	</head>
+	<body>
+		<script>
+			var language = window.navigator.userLanguage || window.navigator.language;
+
+			if (language.toLowerCase().includes("zh")) {
+				window.location.href = "/zh/";
+			} else {
+				window.location.href = "/en/";
+			}
+		</script>
+
+		<p>Click <a href="/en/">here</a> to visit my blog.</p>
+		<p>点击<a href="/zh/">这里</a>访问我的博客。</p>
+	</body>
+</html>
