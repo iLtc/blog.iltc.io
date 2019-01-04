@@ -3,6 +3,9 @@ title: 'Project Review: Admissions Data Search System'
 layout: post
 date: 2017-09-08 02:53:00 -0600
 categories: Projects
+lang: en
+lang-ref: project-review-admissions-data-search-system
+permalink: /en/project-review-admissions-data-search-system.html
 ---
 
 ![The Main Page](/assets/201709/WelcomeMain.png)

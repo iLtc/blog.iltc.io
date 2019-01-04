@@ -5,6 +5,21 @@ permalink: 404.html
 ---
 
 <div class="page">
+<noscript>
   <h1 class="page-title">404: Page not found</h1>
   <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="{{ site.baseurl }}">Head back home</a> to try finding it again.</p>
+</noscript>
+<div id="error"></div>
 </div>
+
+<script type="text/javascript">
+	$.ajax({
+		url: "/en" + window.location.pathname,
+		success: function(){
+			window.location.href = "/en" + window.location.pathname
+		},
+		error: function(){
+			$("#error").html($("noscript").html())
+		}
+	})
+</script>

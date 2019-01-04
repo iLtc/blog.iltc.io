@@ -3,6 +3,9 @@ title: Sell Your Privacy
 layout: post
 date: 2017-10-6 07:24:00 -0600
 categories: Rhetoric
+lang: en
+lang-ref: sell-your-privacy
+permalink: /en/sell-your-privacy.html
 ---
 
 This is an essay that I wrote for my Rhetoric course.

@@ -3,6 +3,9 @@ title: The Programming Languages that I have learned (Part I)
 layout: post
 date: 2017-08-28 07:00:00 -0600
 categories: Languages
+lang: en
+lang-ref: the-programming-languages-that-i-have-learned-part-i
+permalink: /en/the-programming-languages-that-i-have-learned-part-i.html
 ---
 
 This article is a list of programming languages that I have learned. Please notice that I have *learned* them, which means I have not *mastered* them.

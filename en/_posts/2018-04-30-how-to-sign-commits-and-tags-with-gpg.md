@@ -3,6 +3,9 @@ title: How to Sign Commits and Tags with GPG
 layout: post
 date: 2018-04-30 00:34:00 -0600
 categories: Git GPG Tutorials
+lang: en
+lang-ref: how-to-sign-commits-and-tags-with-gpg
+permalink: /en/how-to-sign-commits-and-tags-with-gpg.html
 ---
 
 ## Why Should You Use GPG?
