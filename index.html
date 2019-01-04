@@ -5,16 +5,11 @@
 	</head>
 	<body>
 		<script>
-			var language = window.navigator.userLanguage || window.navigator.language;
-
-			if (language.toLowerCase().includes("zh")) {
-				window.location.href = "/zh/";
-			} else {
-				window.location.href = "/en/";
-			}
+			window.location.href = "/en/";
 		</script>
-
-		<p>Click <a href="/en/">here</a> to visit my blog.</p>
-		<p>点击<a href="/zh/">这里</a>访问我的博客。</p>
+		<noscript>
+			<p>Click <a href="/en/">here</a> to visit my blog.</p>
+			<p>点击<a href="/zh/">这里</a>访问我的博客。</p>
+		</noscript>
 	</body>
 </html>
