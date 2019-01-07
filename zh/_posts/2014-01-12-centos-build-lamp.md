@@ -2,7 +2,7 @@
 title: 'CentOS 搭建 LAMP 环境'
 layout: post
 date: 2014-01-12 15:55:00 +0800
-categories: Linux, Apache, MySQL, PHP, CentOS, yum
+categories: Linux Apache MySQL PHP CentOS yum
 lang: zh
 lang_ref: centos-build-lamp
 permalink: /zh/centos-build-lamp.html
