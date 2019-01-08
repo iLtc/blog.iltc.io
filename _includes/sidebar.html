@@ -12,6 +12,7 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item" href="https://iltc.io">{{ site.data.translations['home'][page.lang] }}</a>
       <a class="sidebar-nav-item{% if page.url == '/en/' or page.url =='/zh/' %} active{% endif %}" href="/{{ page.lang }}/">{{ site.data.translations['blog'][page.lang] }}</a>
+      <a class="sidebar-nav-item{% if page.url contains 'categories.html' %} active{% endif %}" href="/{{ page.lang }}/categories.html">{{ site.data.translations['categories'][page.lang] }}</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
