@@ -6,7 +6,12 @@ baseurl: /
 url: https://blog.iltc.io
 permalink: pretty
 
-highlighter: rouge
+highlighter: none
+
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
 
 plugins:
   - jekyll-feed
