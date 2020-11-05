@@ -24,3 +24,5 @@ excerpt_separator: <!--more-->
 
 disqus:
   shortname: iltc-blog
+
+exclude: [vendor]
