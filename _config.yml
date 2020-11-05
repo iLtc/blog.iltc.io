@@ -6,7 +6,7 @@ baseurl: /
 url: https://blog.iltc.io
 permalink: pretty
 
-highlighter: none
+highlighter: rouge
 
 markdown: kramdown
 kramdown:
